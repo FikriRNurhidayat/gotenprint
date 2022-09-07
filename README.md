@@ -11,6 +11,12 @@
 - `makefile`
 - `golang`
 
+## How to run
+
+```sh
+tenprint
+```
+
 ## How to build
 
 Simply run
